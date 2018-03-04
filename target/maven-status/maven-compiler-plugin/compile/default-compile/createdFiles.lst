@@ -1,0 +1,8 @@
+dhbw\web\ManufacturerService.class
+dhbw\pojo\Manufacturer_.class
+dhbw\pojo\ProductCode_.class
+dhbw\pojo\Product_.class
+dhbw\web\ProductService.class
+dhbw\pojo\Manufacturer.class
+dhbw\pojo\Product.class
+dhbw\pojo\ProductCode.class
